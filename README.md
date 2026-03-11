@@ -133,7 +133,7 @@ cv2.destroyAllWindows()
 
 ## 👥 Contributors
 
-- Krish Patel (@krishp1002)
+- Krish Parmar
 - Team EcoVision VGEC
 
 ---
